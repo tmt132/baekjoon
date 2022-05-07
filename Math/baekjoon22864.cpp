@@ -18,6 +18,10 @@ int main()
 		{
 			tired -= C;
 		}
+		else
+		{
+		    tired = 0;
+		}
 	}
 	cout << work;
 }
